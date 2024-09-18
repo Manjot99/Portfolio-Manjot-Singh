@@ -60,9 +60,10 @@ SELECT * FROM parksrecreationandpets_aci_table_manjot;
 
 - **Excel**: Histograms and bar charts were created in Excel to visualize the distribution of lost animal breeds, helping stakeholders easily interpret the trends.
 
-**Visualization 1**: Histogram of Lost Breed Rates (2023 vs. 2024)
+**Visualization 1**: Histogram of Lost Breed Rates %
 
-![Lost Breed Histogram](insert-image-link-here)
+<img width="1441" alt="Screenshot 2024-09-18 at 2 57 03 AM" src="https://github.com/user-attachments/assets/53c0feb6-7a56-4f43-ab3b-41eb860e91f9">
+
 
 ## Publishing and Web Hosting
 
