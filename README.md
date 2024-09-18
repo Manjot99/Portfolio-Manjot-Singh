@@ -44,6 +44,7 @@ To **analyze the lost rate of different breeds** for the years 2023 and 2024, an
 ### 3. ETL Pipeline
 
 - **AWS Glue**: I used AWS Glue to build an automated ETL (Extract, Transform, Load) pipeline, which enabled efficient data extraction from S3, transformation of the data, and loading it for analysis.
+<img width="1027" alt="Screenshot 2024-09-18 at 2 48 42 AM" src="https://github.com/user-attachments/assets/f2c4c837-8958-48a2-ae35-ac7c100c29ad">
 
 ### 4. Data Analysis
 
