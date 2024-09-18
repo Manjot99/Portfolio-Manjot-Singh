@@ -23,6 +23,9 @@ The dataset contains lost and found animal records from Vancouver, spanning Dece
 
 Dataset link: [**Animal Control Inventory Dataset**](https://opendata.vancouver.ca/explore/dataset/animal-control-inventory-lost-and-found/information/?disjunctive.breed&disjunctive.color&sort=date)
 
+<img width="1249" alt="Screenshot 2024-09-18 at 3 35 19 AM" src="https://github.com/user-attachments/assets/90c44f92-a7d5-4a1a-ae3f-ce948035d984">
+
+
 ## Data Analytical Question Formulation
 
 ### Goal
