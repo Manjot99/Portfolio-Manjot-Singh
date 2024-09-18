@@ -101,7 +101,6 @@ SELECT * FROM parksrecreationandpets_aci_table_manjot;
 
 1. A detailed report summarizing the methods, findings, and recommendations.
 2. Visualizations and dashboards to present key insights clearly.
-3. A live demo hosted on AWS EC2 to showcase the project results.
 
 ## Conclusion
 
